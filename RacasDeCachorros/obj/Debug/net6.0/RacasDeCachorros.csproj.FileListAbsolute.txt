@@ -1,0 +1,38 @@
+C:\WorkSpaces\RacasDeCachorros\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\RacasDeCachorros\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.AssemblyInfoInputs.cache
+C:\WorkSpaces\RacasDeCachorros\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.AssemblyInfo.cs
+C:\WorkSpaces\RacasDeCachorros\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\RacasDeCachorros\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.MvcApplicationPartsAssemblyInfo.cache
+C:\WorkSpaces\RacasDeCachorros\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.RazorAssemblyInfo.cache
+C:\WorkSpaces\RacasDeCachorros\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.RazorAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.RazorAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.RazorAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.sourcelink.json
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\bin\Debug\net6.0\appsettings.json
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\bin\Debug\net6.0\RacasDeCachorros.staticwebassets.runtime.json
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\bin\Debug\net6.0\RacasDeCachorros.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\bin\Debug\net6.0\RacasDeCachorros.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\bin\Debug\net6.0\RacasDeCachorros.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\bin\Debug\net6.0\RacasDeCachorros.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\bin\Debug\net6.0\RacasDeCachorros.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\staticwebassets\msbuild.RacasDeCachorros.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\staticwebassets\msbuild.build.RacasDeCachorros.props
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RacasDeCachorros.props
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RacasDeCachorros.props
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\scopedcss\bundle\RacasDeCachorros.styles.css
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\scopedcss\projectbundle\RacasDeCachorros.bundle.scp.css
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\refint\RacasDeCachorros.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\RacasDeCachorros.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorrosCP2\RacasDeCachorros\obj\Debug\net6.0\ref\RacasDeCachorros.dll

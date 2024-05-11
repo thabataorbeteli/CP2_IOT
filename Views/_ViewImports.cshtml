@@ -1,0 +1,22 @@
+﻿@model Cachorro
+
+<input type="hidden" asp-for="CachorroId" />
+<div class="form-box-cachorro">
+<label asp-for="Nome" class="form-label-cachorro">Nome</label>
+<input asp-for="Nome" class="form-items-cachorro" placeholder="Digite o nome do raça..." required />
+</div>
+<div class="form-box-game">
+<label asp-for="Origem" class="form-label-cachorro">Origem</label>
+<input asp-for="Origem" class="form-items-cachorro" placeholder="Digite a origem do cachorro..." required />
+</div>
+<div class="form-box-cachorro">
+<label asp-for="Genero" class="form-label-game">Gênero</label>
+<select required asp-for="Genero" class="form-select-cachorro"
+        asp-items="@Html.GetEnumSelectList<Genero>()">
+    <option class="form-option-cachorro">Selecione o Gênero</option>
+</select>
+</div>
+<div class="form-box-cachorro">
+<label asp-for="Nascimento" class="form-label-cachorro">Data de Nascimento</label>
+<input asp-for="Nascimento" type="date" class="form-items-cachorro" required />
+</div>

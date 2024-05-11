@@ -1,0 +1,18 @@
+﻿@model Cachorro
+@{
+    ViewData["Title"] = "Edição de Cachorro";
+}
+
+<section class="section-editar-cachorro">
+    <h1>Edição de <span class="slogan-home">Cachorros</span></h1>
+    <p class="content-alert-sucess" id="alert-message">@TempData["msg"]</p>
+
+    <form asp-action="editar" class="form-content-cachorro">
+        <partial name="_Form" />
+
+        <div class="form-content-button">
+            <button type="submit" class="button-input">Editar</button>
+            <a asp-action="index" class="button-input">Cancelar</a>
+        </div>
+    </form>
+</section>
