@@ -2,60 +2,57 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>@ViewData["Title"] - Raca de Cachorro</title>
-    <link rel="stylesheet" href="~/css/reset.css"/>
-    <link rel="stylesheet" href="~/css/site.css"/>
-    <link rel="stylesheet" href="~/css/responsive.css"/>
-    <link rel="stylesheet" href="~/css/pages/home.css"/>
-    <link rel="stylesheet" href="~/css/pages/privacy.css"/>
-    <link rel="stylesheet" href="~/css/pages/listarcachorros.css" />
-    <link rel="stylesheet" href="~/css/pages/formularios.css"/>
-    <link rel="preconnect" href="https://fonts.googleapis.com"/>
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - RacasDeCachorros</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/RacasDeCachorros.styles.css" asp-append-version="true" />
 </head>
 <body>
     <header>
-        <nav class="menu-nav">
-            <div class="menu-nav-content">
-                <a class="menu-logo" asp-area="" asp-controller="Home" asp-action="Index">Cachorros</a>
-                <a class="menu-hamburguer" onclick="toggleMenu()"><img src="~/img/ico-hamburguer.svg" alt="Ícone de Visualizar Menu"></a>
-                <div class="menu-items-content">
-                    <a asp-area="" asp-controller="Home" asp-action="Index" class="menu-items-link">Inicio</a>
-
-                    <div class="dropdown">
-                        <a class="menu-items-link">Cachorro<span class="dropdown-icon"></span></a>
-                        <div class="dropdown-content">
-                            <a asp-area="" asp-controller="Cachorro" asp-action="Cadastrar" class="menu-items-link"><img src="~/img/ico-cadastrar.svg" alt="Ícone de Cadastrar" class="icon-item-dropdown">Cadastrar</a>
-                            <div class="dropdown-content-divisor"></div>
-                            <a asp-area="" asp-controller="Cachorro" asp-action="Index" class="menu-items-link"><img src="~/img/ico-listar.svg" alt="Ícone de Listar" class="icon-item-dropdown">Listar</a>
-                        </div>
-                    </div>
-                    <a asp-area="" asp-controller="Home" asp-action="Privacy" class="menu-items-link">Privacidade</a>
-                    <div class="container-search">
-                        <form method="get" asp-action="PesquisaNome" asp-controller="Cachorro" class="header-form-search">
-                            <input type="search" class="input-search" placeholder="Pesquisar..." aria-label="Search" name="searchString">
-                            <button type="submit" class="button-search-ico"><img class="search-ico" src="~/img/ico-search.svg" alt="Icone de Pesquisa" /></button>
-                        </form>
-                    </div>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">RacasDeCachorros</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Cachorro" asp-action="Index">Lista</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </nav>
     </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
 
-    <main role="main" class="main-content">
-        @RenderBody()
-    </main>
-
-    <footer class="footer-content">
-        <div class="footer-container">
-            <p>Technos &  &copy; 2024 - <a asp-area="" asp-controller="Home" asp-action="Index">Cachorros</a> - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a></p>
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - RacasDeCachorros - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+    @section Banner {
+        <div class="alert alert-info text-center">
+            Conheça as diferentes raças de cachorro disponíveis!
+        </div>
+    }
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-    <script src="~/js/responsive.js" asp-append-version="true"></script>
-    <script src="~/js/confirm-page.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
+
 </body>
 </html>

@@ -1,7 +1,0 @@
-C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorro\obj\Debug\net8.0\RacasDeCachorro.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorro\obj\Debug\net8.0\RacasDeCachorro.AssemblyInfoInputs.cache
-C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorro\obj\Debug\net8.0\RacasDeCachorro.AssemblyInfo.cs
-C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorro\obj\Debug\net8.0\RacasDeCachorro.csproj.CoreCompileInputs.cache
-C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorro\obj\Debug\net8.0\RacasDeCachorro.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorro\obj\Debug\net8.0\RacasDeCachorro.RazorAssemblyInfo.cache
-C:\Users\carlo\OneDrive\Área de Trabalho\RacasDeCachorro\obj\Debug\net8.0\RacasDeCachorro.RazorAssemblyInfo.cs
