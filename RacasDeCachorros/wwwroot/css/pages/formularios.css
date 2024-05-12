@@ -1,0 +1,93 @@
+﻿/* Estilos para o formulário de cadastro de cachorros */
+.section-cadastrar-cachorro,
+.section-editar-cachorro {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-content-cachorro {
+    height: auto;
+    width: 80%;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: #A822C3;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.form-box-cachorro {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-label-cachorro {
+    width: 100%;
+    display: block;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    color: #FFFFFF;
+}
+
+.form-items-cachorro,
+.form-select-cachorro {
+    width: 100%;
+    background-color: #333;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 2px solid #A822C3;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+.form-select-cachorro {
+    /* Adicione um tamanho de fonte para combinar com os campos de entrada */
+    font-size: 16px;
+}
+
+.form-select-cachorro option {
+    padding: 10px; /* Adicione preenchimento às opções */
+}
+
+.form-items-cachorro:focus,
+.form-select-cachorro:focus {
+    outline: none;
+    border: 2px solid #9c15b8;
+}
+
+.form-content-button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.button-input {
+    border: 0;
+    width: 40%;
+    display: inline-block;
+    padding: 15px;
+    font-family: Inter;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #A822C3;
+    border-radius: 20px;
+    color: #fff;
+    transition: all 0.6s;
+}
+
+.form-content-game .button-input:hover {
+    background-color: #9c15b8;
+}

@@ -1,0 +1,76 @@
+﻿/* Estilo para a seção da página inicial */
+.section-cahorro-home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+/* Estilo para o slogan da página inicial */
+.slogan-home {
+    color: #5C0A6D;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Estilo para o conteúdo da página inicial */
+.content-button-home {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+}
+
+/* Estilo para o container dos botões */
+.box-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+/* Estilo para os botões */
+.button-link {
+    padding: 15px 25px;
+    background-color: #5C0A6D;
+    border-radius: 20px;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+
+/* Estilo para os ícones dos botões */
+.icon-button {
+    width: 50px;
+    transition: transform 0.3s;
+}
+
+/* Estilo para os botões quando hover */
+.button-link:hover {
+    background-color: #A822C3;
+}
+
+/* Estilo para os ícones dos botões quando hover */
+.icon-button:hover {
+    transform: scale(1.1);
+}
+
+/* Estilo responsivo para dispositivos móveis */
+@media (max-width: 768px) {
+    .section-game-home {
+        gap: 20px;
+    }
+
+    .box-button {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .button-link {
+        padding: 15px 35px;
+    }
+}

@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\RacasDeCachorros\\",
+  "WorkspaceRootPath": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|c:\\users\\user\\downloads\\racasdecachorros\\racasdecachorros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|solutionrelative:racasdecachorros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|c:\\workspaces\\nova pasta\\cp2_iot\\racasdecachorros\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|solutionrelative:racasdecachorros\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|c:\\users\\user\\downloads\\racasdecachorros\\racasdecachorros\\views\\cachorro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|solutionrelative:racasdecachorros\\views\\cachorro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|c:\\users\\user\\downloads\\racasdecachorros\\racasdecachorros\\views\\cachorro\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|solutionrelative:racasdecachorros\\views\\cachorro\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|c:\\users\\user\\downloads\\racasdecachorros\\racasdecachorros\\views\\cachorro\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|solutionrelative:racasdecachorros\\views\\cachorro\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|c:\\users\\user\\downloads\\racasdecachorros\\racasdecachorros\\views\\cachorro\\_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|c:\\workspaces\\nova pasta\\cp2_iot\\racasdecachorros\\views\\cachorro\\_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|solutionrelative:racasdecachorros\\views\\cachorro\\_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|c:\\users\\user\\downloads\\racasdecachorros\\racasdecachorros\\controllers\\cachorrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|c:\\workspaces\\nova pasta\\cp2_iot\\racasdecachorros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|solutionrelative:racasdecachorros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|c:\\workspaces\\nova pasta\\cp2_iot\\racasdecachorros\\views\\cachorro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|solutionrelative:racasdecachorros\\views\\cachorro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|c:\\workspaces\\nova pasta\\cp2_iot\\racasdecachorros\\views\\cachorro\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|solutionrelative:racasdecachorros\\views\\cachorro\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|c:\\workspaces\\nova pasta\\cp2_iot\\racasdecachorros\\views\\cachorro\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|solutionrelative:racasdecachorros\\views\\cachorro\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|c:\\workspaces\\nova pasta\\cp2_iot\\racasdecachorros\\controllers\\cachorrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E96EF9F5-663F-4836-9FEB-4B3C4AA45FBC}|RacasDeCachorros\\RacasDeCachorros.csproj|solutionrelative:racasdecachorros\\controllers\\cachorrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,19 +38,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "RacasDeCachorros\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "RacasDeCachorros\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-12T02:14:25.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RacasDeCachorros\\RacasDeCachorros\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "RacasDeCachorros\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Downloads\\RacasDeCachorros\\RacasDeCachorros\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "RacasDeCachorros\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABkAAAAAAAAAAAAAABkAAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -55,23 +68,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "_Form.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RacasDeCachorros\\RacasDeCachorros\\Views\\Cachorro\\_Form.cshtml",
+              "DocumentMoniker": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\Views\\Cachorro\\_Form.cshtml",
               "RelativeDocumentMoniker": "RacasDeCachorros\\Views\\Cachorro\\_Form.cshtml",
-              "ToolTip": "C:\\Users\\User\\Downloads\\RacasDeCachorros\\RacasDeCachorros\\Views\\Cachorro\\_Form.cshtml",
+              "ToolTip": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\Views\\Cachorro\\_Form.cshtml",
               "RelativeToolTip": "RacasDeCachorros\\Views\\Cachorro\\_Form.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T00:33:57.125Z"
+              "WhenOpened": "2024-05-12T00:33:57.125Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RacasDeCachorros\\RacasDeCachorros\\Views\\Cachorro\\Editar.cshtml",
+              "DocumentMoniker": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\Views\\Cachorro\\Editar.cshtml",
               "RelativeDocumentMoniker": "RacasDeCachorros\\Views\\Cachorro\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\User\\Downloads\\RacasDeCachorros\\RacasDeCachorros\\Views\\Cachorro\\Editar.cshtml",
+              "ToolTip": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\Views\\Cachorro\\Editar.cshtml",
               "RelativeToolTip": "RacasDeCachorros\\Views\\Cachorro\\Editar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -79,11 +93,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Cadastrar.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RacasDeCachorros\\RacasDeCachorros\\Views\\Cachorro\\Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\Views\\Cachorro\\Cadastrar.cshtml",
               "RelativeDocumentMoniker": "RacasDeCachorros\\Views\\Cachorro\\Cadastrar.cshtml",
-              "ToolTip": "C:\\Users\\User\\Downloads\\RacasDeCachorros\\RacasDeCachorros\\Views\\Cachorro\\Cadastrar.cshtml",
+              "ToolTip": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\Views\\Cachorro\\Cadastrar.cshtml",
               "RelativeToolTip": "RacasDeCachorros\\Views\\Cachorro\\Cadastrar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -91,11 +105,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RacasDeCachorros\\RacasDeCachorros\\Views\\Cachorro\\Index.cshtml",
+              "DocumentMoniker": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\Views\\Cachorro\\Index.cshtml",
               "RelativeDocumentMoniker": "RacasDeCachorros\\Views\\Cachorro\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Downloads\\RacasDeCachorros\\RacasDeCachorros\\Views\\Cachorro\\Index.cshtml",
+              "ToolTip": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\Views\\Cachorro\\Index.cshtml",
               "RelativeToolTip": "RacasDeCachorros\\Views\\Cachorro\\Index.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -103,11 +117,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CachorroController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RacasDeCachorros\\RacasDeCachorros\\Controllers\\CachorroController.cs",
+              "DocumentMoniker": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\Controllers\\CachorroController.cs",
               "RelativeDocumentMoniker": "RacasDeCachorros\\Controllers\\CachorroController.cs",
-              "ToolTip": "C:\\Users\\User\\Downloads\\RacasDeCachorros\\RacasDeCachorros\\Controllers\\CachorroController.cs",
+              "ToolTip": "C:\\WorkSpaces\\Nova pasta\\CP2_IOT\\RacasDeCachorros\\Controllers\\CachorroController.cs",
               "RelativeToolTip": "RacasDeCachorros\\Controllers\\CachorroController.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAA5wCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

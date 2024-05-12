@@ -1,22 +1,134 @@
+/* Estilo do HTML */
 html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
     font-size: 16px;
-  }
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
+/* Estilo do Body */
 body {
-  margin-bottom: 60px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    background: url("../img/games/spider-man2.png") 50% center no-repeat fixed;
+    background-size: cover;
+    font-family: Inter, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+/* Estilo para os botões e formulários focados */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    outline: none;
+}
+
+/* Estilo para os cabeçalhos */
+h1, h2 {
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 4px black;
+    text-align: center;
+    font-size: calc(1.375rem + 1.5vw);
+    color: #ffffff;
+}
+
+/* Estilo para os links */
+a {
+    text-decoration: none;
+    color: #cdcdcd;
+    transition: all 0.4s;
+    font-weight: bold;
+}
+
+    a:hover {
+        color: #ffffff;
+    }
+
+/* Estilo para o header */
+header {
+    position: relative;
+    z-index: 999;
+    backdrop-filter: blur(10px);
+}
+
+/* Estilo para o conteúdo principal */
+.main-content {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Estilo para o conteúdo do footer */
+.footer-content {
+    width: 100%;
+    padding: 20px 25px;
+    background: #5c0a6d;
+    border-top: 2px solid #e5e5e5;
+    margin-top: auto;
+    text-align: center;
+}
+
+/* Estilo para o container do footer */
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Estilo para as mensagens de alerta de sucesso */
+.content-alert-sucess {
+    background: #0a6d11;
+    border-radius: 10px;
+    color: #ffffff;
+    font-family: Inter;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+/* Estilo para o campo de pesquisa no header */
+.header-form-search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-search[type="search"] {
+    outline: none;
+    border: 0;
+    padding: 8px 12px;
+    border-radius: 4px 0 0 4px;
+    font-size: 16px;
+    width: 200px;
+}
+
+/* Estilo para o botão de pesquisa */
+.button-search-ico[type="submit"] {
+    padding: 6px 15px;
+    border: 0;
+    border-radius: 0 4px 4px 0;
+    background-color: #3a3787;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.6s;
+}
+
+    .button-search-ico[type="submit"]:hover {
+        background-color: #1d074b;
+    }
+
+/* Estilo para o ícone de pesquisa */
+.search-ico {
+    width: 20px;
+    height: 20px;
 }

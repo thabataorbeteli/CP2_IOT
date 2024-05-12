@@ -1,0 +1,148 @@
+﻿/* Estilo para o menu de navegação */
+.menu-nav {
+    padding: 1rem;
+    border-bottom: 1px solid #e5e5e5;
+    background: #5C0A6D;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-hamburguer {
+    display: none;
+}
+
+    .menu-hamburguer img {
+        width: 50px;
+        height: auto;
+    }
+
+.menu-items-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.menu-mobile-active {
+    display: flex !important;
+}
+
+/* Estilo para os links de navegação */
+.menu-nav .menu-logo {
+    padding: 0.3125rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.menu-items-link {
+    color: #cdcdcd;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.menu-nav .dropdown-icon::after {
+    display: inline-block;
+    margin-left: .255em;
+    vertical-align: .255em;
+    content: "";
+    border-top: .3em solid;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
+}
+
+.menu-nav a:hover {
+    color: #fff;
+}
+
+/* Estilo para o menu suspenso */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Estilo para o conteúdo do menu suspenso */
+.dropdown-content {
+    display: none;
+    background-color: #343a40;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: .25rem;
+    position: absolute;
+    padding: .5rem 0;
+    margin-top: 2px;
+    min-width: 160px;
+    text-align: left;
+    z-index: 1;
+}
+
+    /* Estilo para os links do menu suspenso */
+    .dropdown-content a {
+        color: #bdc0c2;
+        padding: 0.25rem 1rem;
+        text-decoration: none;
+        min-width: 10rem;
+        display: block;
+        transition: all 0.6s;
+    }
+
+        /* Estilo para os links do menu suspenso quando hover */
+        .dropdown-content a:hover {
+            color: #FFFFFF;
+            background-color: #ffffff26;
+        }
+
+.dropdown-content-divisor {
+    width: 100%;
+    border-top: 1px solid #6c757d;
+    margin: 0.5rem 0;
+}
+
+/* Mostrar o conteúdo do menu suspenso ao passar o mouse */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Estilo para o menu hamburguer em dispositivos móveis */
+@media (max-width: 767px) {
+    .menu-hamburguer {
+        display: block;
+        cursor: pointer;
+    }
+
+    .menu-nav-content {
+        display: none;
+        flex-direction: column;
+        gap: 25px;
+        width: 100%;
+    }
+
+    .menu-nav {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
+/* Estilo adicional para dispositivos móveis menores */
+@media (max-width: 420px) {
+    .menu-nav .menu-logo img {
+        max-width: 100%;
+    }
+
+    .menu-hamburguer img {
+        max-width: 50%;
+    }
+
+    .menu-nav-content {
+        gap: 5px;
+    }
+
+    .icon-button {
+        display: none;
+    }
+
+    .dropdown-content {
+        width: 75vw;
+    }
+}
